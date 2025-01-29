@@ -65,6 +65,7 @@ Below is the sample performance comparison of the different models used for pred
 
 ### Observations:
 - *Neural Network* has the highest accuracy, precision,F1-score and ROC-AUC score, indicating better overall performance compared to the other models.
+- *Neural Network* has the highest accuracy, precision,F1-score and ROC-AUC score, indicating better overall performance compared to the other models.
 - *Random Forest* shows a balanced performance with a slight increase in precision compared to Logistic Regression.
 - *Logistic Regression* maintains a solid performance but has the lowest accuracy among the three models.
 
@@ -87,10 +88,6 @@ These metrics provide a comprehensive comparison, highlighting the strengths and
   - **False Negative (FN)**: Incorrectly predicted negative cases.
   - **True Positive (TP)**: Correctly predicted positive cases.
 
-
-## Findings
-
-[View the file](https://github.com/khanal-deepa/titanic-survival-analysis.git/reports/Titanic Survival Prediction Model Evaluation Report.docx)
 
 
 
