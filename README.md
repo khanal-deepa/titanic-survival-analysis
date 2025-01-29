@@ -15,8 +15,7 @@ The following machine learning models have been implemented and evaluated:
 1. [Requirements](#requirements)
 2. [Installation](#installation)
 3. [Model Evaluation](#model-evaluation)
-4. [Evaluation Metrics](#evaluation-metrics)
-5. [Findings](#findings)
+4. [Findings](#findings)
 
 
 ## Requirements
@@ -88,6 +87,10 @@ These metrics provide a comprehensive comparison, highlighting the strengths and
   - **False Negative (FN)**: Incorrectly predicted negative cases.
   - **True Positive (TP)**: Correctly predicted positive cases.
 
+## Findings
+## Titanic Survival Prediction Model Evaluation Report
 
+You can download the latest evaluation report for the Titanic Survival Prediction Model using the link below:
 
+[Download the Report](reports/Titanic%20Survival%20Prediction%20Model%20Evaluation%20Report.docx)
 
