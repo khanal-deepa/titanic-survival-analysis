@@ -81,7 +81,7 @@ class NeuralNetworkTrainer(ModelTrainer):
         return model
 
 
-def main():
+def model_train():
     """
     Main function to load data, train models, and save them.
     """
@@ -100,6 +100,3 @@ def main():
         trainer.train(X_train, y_train)
         print(f"{trainer.__class__.__name__} training completed.")
 
-
-if __name__ == "__main__":
-    main()

@@ -90,7 +90,4 @@ class DataProcessor:
         self.split_data()
         self.save_data()
 
-if __name__ == "__main__":
-    # Define processor instance with the dataset path and execute processing
-    processor = DataProcessor(PathConfig.BASE_DIR / "data/titanic.csv")
-    processor.process()
+

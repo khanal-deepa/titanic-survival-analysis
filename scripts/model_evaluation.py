@@ -137,7 +137,3 @@ class ModelEvaluator:
         print("Evaluation completed.")
 
 
-if __name__ == "__main__":
-    # Create an instance of ModelEvaluator and run the evaluation
-    evaluator = ModelEvaluator()
-    evaluator.run_evaluation()

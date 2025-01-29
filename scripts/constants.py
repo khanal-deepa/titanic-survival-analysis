@@ -40,5 +40,4 @@ class NeuralNetworkConfig:
     OPTIMIZER = "adam"
     EPOCHS = 100
     BATCH_SIZE = 32
-    VALIDATION_SPLIT = 0.1
-    LEARNING_RATE = 0.0001
+    LEARNING_RATE = 0.001
