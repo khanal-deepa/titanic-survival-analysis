@@ -1,7 +1,5 @@
 # titanic-survival-analysis
 
-# Titanic Survival Prediction
-
 ## Project Overview
 
 This project aims to predict the survival of Titanic passengers using supervised machine learning models. The dataset contains various features like passenger class, age, sex, and other personal details, and the goal is to predict whether a passenger survived or not based on these features.
@@ -30,6 +28,7 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/khanal-deepa/titanic-survival-analysis.git
 cd titanic-survival-prediction
 pip install -r requirements.txt
+```
 
 ## Model Evaluation
 
